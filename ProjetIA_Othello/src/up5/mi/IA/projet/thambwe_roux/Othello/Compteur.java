@@ -11,5 +11,5 @@ public class Compteur {
 		return compteur;
 	}
 	
-	/* hello, je suis un compteur !*/
+	/* hello, je suis un compteur holà!*/
 }
