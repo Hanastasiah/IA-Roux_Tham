@@ -10,4 +10,6 @@ public class Compteur {
 	public int getCompteur () {
 		return compteur;
 	}
+	
+	/* hello, je suis un compteur !*/
 }
